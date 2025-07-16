@@ -1,0 +1,11 @@
+google
+google.generativeai
+google.genai
+pygame
+mutagen
+openai
+sounddevice
+soundfile
+numpy
+scipy
+pydub

@@ -8,7 +8,7 @@ import voicer
 
 
 # Configure the client
-client = genai.Client(api_key="") #paste your gemini api key in the string
+client = genai.Client(api_key="") # Replace with your API key
 
 # Define the grounding tool
 grounding_tool = types.Tool(
