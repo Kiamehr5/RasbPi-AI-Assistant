@@ -6,7 +6,7 @@ from openai import OpenAI
 import time
 
 # === CONFIG ===
-OPENAI_API_KEY = "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"  # Replace with your key
+OPENAI_API_KEY = ""  # Replace with your key
 THRESHOLD = 0.01           # Silence level (lower = more sensitive)
 SILENCE_DURATION = 1.5     # Stop if silent for this many seconds
 SAMPLERATE = 16000
