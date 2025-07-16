@@ -34,4 +34,6 @@ This project turns your Pi into a simple, privacy-friendly smart assistant capab
 ```bash
 git clone https://github.com/your-username/gemini-pi-assistant.git
 cd gemini-pi-assistant
+sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
+pip3 install -r requirements.txt
 python main.py
