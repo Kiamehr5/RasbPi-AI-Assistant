@@ -12,7 +12,7 @@ This project turns your Pi into a simple, privacy-friendly smart assistant capab
 - 🧠 Natural language understanding via **Gemini 2.5 Flash**
 - 🔊 Text-to-speech output through a speaker
 - 💬 Real-time conversations with voice feedback
-- ⚡ Runs on Raspberry Pi (tested on Pi 4 & Pi 5)
+- ⚡ Runs on Raspberry Pi (tested on Pi 5)
 - 🕶️ Minimal UI — just talk to it
 
 ---
