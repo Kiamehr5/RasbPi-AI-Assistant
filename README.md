@@ -29,6 +29,9 @@ This project turns your Pi into a simple, privacy-friendly smart assistant capab
 ## 🚀 Getting Started
 
 ### 1. Clone the Repo
+
+(first remember to put your api key then proceed)
 ```bash
 git clone https://github.com/your-username/gemini-pi-assistant.git
 cd gemini-pi-assistant
+python main.py
